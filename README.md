@@ -6,7 +6,7 @@ O presente projeto visa explorar este banco de dados e, por meio de Streamlit, f
 
 Visualiação do projeto pelo Streamlit:
 
-https://github.com/FBMissono/Informativos_STF/assets/101599997/3a27742a-0ca5-4ab9-b69c-d083fef9a4a7
+https://github.com/FBMissono/Informativos_STF/assets/101599997/73733b33-16de-481d-8cde-267040e216ff
 
 
 
