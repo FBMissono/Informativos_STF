@@ -4,6 +4,8 @@ O Informativo STF, periódico semanal do Supremo Tribunal Federal, apresenta, de
 
 O presente projeto visa explorar este banco de dados e, por meio de Streamlit, facilitando o filtro desses julgados por ANO, Mês, número do Informativo, Ramo do Direito (Direito Constitucional, Direito Admonistrativo, Direito Tributário, Direto Penal, Direito Previdenciário, etc...), bem como apresentar um melhor layout para leitura do julgado, visto que a leitura do julgado direto no Banco de Dados fica um pouco prejudicado, em razão da largura da coluna e da quantidade de linhas do dataset (banco de dados).  
 
+Visualiação do projeto pelo Streamlit:
+
 
 
 
